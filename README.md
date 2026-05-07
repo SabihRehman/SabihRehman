@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sabih 👋</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer</strong> Angular · React • Next.js • Node.js • AWS
+  <strong>Senior Full-Stack Engineer</strong> · React • Next.js • Node.js • AWS
 </p>
 
 <p align="center">
@@ -82,21 +82,11 @@ These days I spend most of my time working remotely with [Staffy](https://staffy
 - 🏥 **[Staffy](https://staffy.com)** — Workforce management SaaS for healthcare and hospitality. 50K+ users, 200+ clients, $2M+ in monthly transactions. Built the React/Next.js frontend, Node.js APIs, real-time GPS attendance tracking, and a multi-gateway payment system (Stripe, Berkeley, Remtir, Instant Pay).
 - 🏘️ **Land of Profits** — Real estate investment platform for the Dubai market. Built with Next.js, Node.js, MongoDB, and Mapbox. Supports 10K+ concurrent users with real-time property updates.
 - 🎓 **J&S Solutions** — Student settlement platform for international students in Australia. Hit a 95+ Lighthouse score and sub-1.5s global page load using SSG/ISR and Cloudflare CDN.
+- 📱 **[Naeem Mobile Walla](https://naeemmobilewalla.com)** — E-commerce platform for mobile phones and accessories with product catalog, search, and order management.
+- 💱 **[ChainFX](https://chainfx-app.netlify.app/)** — Crypto/forex trading interface built as a React SPA with real-time data flows and a clean trading dashboard UX.
+- 🅿️ **[Parking MVP](https://parking-mvp-demo.vercel.app/)** — Smart parking management demo built on Next.js, covering slot booking, availability, and admin views.
 - 🐾 **Maowsy** — Pet adoption platform connecting shelters with adopters. 1K+ pets listed, 500+ adoptions.
 - 🎂 **Cakenest** — Marketplace for home bakers built with Vue, Node.js, and Stripe.
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SabihRehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabihRehman&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabihRehman&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
