@@ -83,9 +83,10 @@ These days I spend most of my time working remotely with [Staffy](https://staffy
 - 🏘️ **Land of Profits** — Real estate investment platform for the Dubai market. Built with Next.js, Node.js, MongoDB, and Mapbox. Supports 10K+ concurrent users with real-time property updates.
 - 🎓 **J&S Solutions** — Student settlement platform for international students in Australia. Hit a 95+ Lighthouse score and sub-1.5s global page load using SSG/ISR and Cloudflare CDN.
 - 📱 **[Naeem Mobile Walla](https://naeemmobilewalla.com)** — E-commerce platform for mobile phones and accessories with product catalog, search, and order management.
-- 💱 **[ChainFX](https://chainfx-app.netlify.app/)** — Crypto/forex trading interface built as a React SPA with real-time data flows and a clean trading dashboard UX.
+- 💱 **[ChainFX](https://chainfx-app.netlify.app/)** — Multi-currency exchange app showing live rates and supporting chained conversions across currencies (e.g. PKR → USD → CAD → AUD). Built as a React SPA with real-time rate updates.
 - 🅿️ **[Parking MVP](https://parking-mvp-demo.vercel.app/)** — Smart parking management demo built on Next.js, covering slot booking, availability, and admin views.
-- 🐾 **Maowsy** — Pet adoption platform connecting shelters with adopters. 1K+ pets listed, 500+ adoptions.
+- 🐾 **[Maowsy](https://maowsy.com/)** — Pet adoption platform connecting shelters with adopters. 1K+ pets listed, 500+ adoptions.
+- ☀️ Solaxo Power Solutions — Renewable energy company website built with React, Next.js, and TailwindCSS. Generated 200+ leads and 100+ installations.
 - 🎂 **Cakenest** — Marketplace for home bakers built with Vue, Node.js, and Stripe.
 
 ---
