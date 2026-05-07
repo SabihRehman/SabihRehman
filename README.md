@@ -86,7 +86,7 @@ These days I spend most of my time working remotely with [Staffy](https://staffy
 - 💱 **[ChainFX](https://chainfx-app.netlify.app/)** — Multi-currency exchange app showing live rates and supporting chained conversions across currencies (e.g. PKR → USD → CAD → AUD). Built as a React SPA with real-time rate updates.
 - 🅿️ **[Parking MVP](https://parking-mvp-demo.vercel.app/)** — Smart parking management demo built on Next.js, covering slot booking, availability, and admin views.
 - 🐾 **[Maowsy](https://maowsy.com/)** — Pet adoption platform connecting shelters with adopters. 1K+ pets listed, 500+ adoptions.
-- ☀️ Solaxo Power Solutions — Renewable energy company website built with React, Next.js, and TailwindCSS. Generated 200+ leads and 100+ installations.
+- ☀️ **[Solaxo Power Solutions](https://www.solaxo.co/)** — Renewable energy company website built with React, Next.js, and TailwindCSS. Generated 200+ leads and 100+ installations.
 - 🎂 **Cakenest** — Marketplace for home bakers built with Vue, Node.js, and Stripe.
 
 ---
