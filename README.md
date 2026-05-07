@@ -81,7 +81,7 @@ These days I spend most of my time working remotely with [Staffy](https://staffy
 
 - 🏥 **[Staffy](https://staffy.com)** — Workforce management SaaS for healthcare and hospitality. 50K+ users, 200+ clients, $2M+ in monthly transactions. Built the React/Next.js frontend, Node.js APIs, real-time GPS attendance tracking, and a multi-gateway payment system (Stripe, Berkeley, Remtir, Instant Pay).
 - 🏘️ **Land of Profits** — Real estate investment platform for the Dubai market. Built with Next.js, Node.js, MongoDB, and Mapbox. Supports 10K+ concurrent users with real-time property updates.
-- 🎓 **J&S Solutions** — Student settlement platform for international students in Australia. Hit a 95+ Lighthouse score and sub-1.5s global page load using SSG/ISR and Cloudflare CDN.
+- 🎓 **[J&S Solutions](https://jssolutions.com.au/)** — Student settlement platform for international students in Australia. Hit a 95+ Lighthouse score and sub-1.5s global page load using SSG/ISR and Cloudflare CDN.
 - 📱 **[Naeem Mobile Walla](https://naeemmobilewalla.com)** — E-commerce platform for mobile phones and accessories with product catalog, search, and order management.
 - 💱 **[ChainFX](https://chainfx-app.netlify.app/)** — Multi-currency exchange app showing live rates and supporting chained conversions across currencies (e.g. PKR → USD → CAD → AUD). Built as a React SPA with real-time rate updates.
 - 🅿️ **[Parking MVP](https://parking-mvp-demo.vercel.app/)** — Smart parking management demo built on Next.js, covering slot booking, availability, and admin views.
